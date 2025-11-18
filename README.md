@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/bryan7hc/bryan7hc/main/assets/banner.png" alt="Banner" />
+<img src="https://pixabay.com/es/photos/teclado-computadora-932370/" alt="Banner" />
 
 # 👋 Hola, soy **Bryan Cahuana**
 
