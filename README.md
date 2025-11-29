@@ -1,172 +1,181 @@
-<!-- BANNER SUPERIOR -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bryan7hc/bryan7hc/main/assets/banner-main.png" width="100%" />
-</p>
+<!-- BANNER & INTRO -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/bryan7hc/bryan7hc/main/assets/banner-main.png" width="100%" alt="Banner Bryan Cahuana" />
+  
+  <br>
+  
+  <h1 style="font-size: 3em;">👋 ¡Hola! Soy Bryan Cahuana</h1>
+  <h3>Ingeniero de Sistemas Computacionales | Full-Stack & Data Enthusiast</h3>
 
-<h1 align="center">👋 ¡Hola! Soy <strong>Bryan Cahuana</strong></h1>
-<h3 align="center">Desarrollador Full-Stack | Ingeniería de Sistemas Computacionales | Cloud (AWS)</h3>
+  <p>
+    <a href="https://linkedin.com/in/tu-usuario" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:bryan.cahuana.dev@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://github.com/bryan7hc">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="350"/>
-</p>
+  <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="280"/>
+</div>
 
 ---
 
 ## 🧑‍💻 Sobre mí
 
-🎓 Estudiante de **Ingeniería de Sistemas Computacionales**  
-⚙️ Especializado en **desarrollo de aplicaciones web, móviles e IA**  
-🌐 Experiencia trabajando con **React, Node.js, Spring Boot, MySQL y Python**  
-☁️ Enfocado en aprendizaje continuo sobre **AWS (EC2, RDS, IAM, S3)**  
-📱 He desarrollado aplicaciones móviles, chatbots de IA y plataformas e-commerce completas  
-🧠 Me apasiona diseñar soluciones escalables con buenas prácticas y arquitectura limpia  
+> 💡 *Transformo problemas complejos en soluciones de software escalables y decisiones basadas en datos.*
 
-📩 **Correo profesional:** `bryan.cahuana.dev@gmail.com`
+* 🎓 **Formación:** Estudiante avanzado de **Ingeniería de Sistemas Computacionales**.
+* ⚙️ **Perfil Híbrido:** Sólida base en **Desarrollo Full-Stack** (Web & Mobile) con una creciente especialización en **Ingeniería de Datos y BI**.
+* ☁️ **Cloud:** Enfocado en arquitectura en la nube con **AWS (EC2, RDS, S3)**.
+* 🚀 **Enfoque:** Código limpio, arquitecturas modulares y metodologías ágiles (**Scrum**).
 
 ---
 
-# 🚀 Proyectos Destacados
+## 🛠️ Arsenal Tecnológico
 
-Aquí están mis **tres proyectos más fuertes**, donde apliqué diversas tecnologías y enfoques profesionales.  
-
----
-
-## 🔹 1. Chatbot de Finanzas Personales  
-<p align="left">
-  <img src="https://img.shields.io/badge/IA%20&%20NLP-Python-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/NoSQL-Database-orange?style=for-the-badge&logo=mongodb" />
-  <img src="https://img.shields.io/badge/Linux-Ubuntu-critical?style=for-the-badge&logo=ubuntu" />
-</p>
-
-> 🧠 Chatbot inteligente para gestión financiera personal.  
-> Analiza gastos, brinda recomendaciones, explica reportes y permite consultas naturales.  
-> Creado sobre **Python (procesamiento de lenguaje natural)** con backend en **Node.js** y base de datos **NoSQL**, desarrollado en **Ubuntu**.
-
-**🎯 Habilidades demostradas:**  
-✔ IA / NLP  
-✔ Integración Python ↔ Node  
-✔ Arquitectura modular  
-✔ Procesamiento de datos financieros  
-
-📌 *Próximamente subiré más información al repo.*
-
----
-
-## 🔹 2. App Móvil – “Reporte Ya”
-<p align="left">
-  <img src="https://img.shields.io/badge/Android_Studio-Mobile_Dev-brightgreen?style=for-the-badge&logo=android" />
-  <img src="https://img.shields.io/badge/SQLite-Local_DB-blue?style=for-the-badge&logo=sqlite" />
-  <img src="https://img.shields.io/badge/Mysql-phpMyAdmin-yellow?style=for-the-badge&logo=mysql" />
-</p>
-
-📱 Aplicación móvil para reportar incidencias ciudadanas:  
-delincuencia, basura acumulada, autos abandonados, ruidos molestos y más.
-
-🔥 **Funciones principales:**  
-- Geolocalización (mapa para seleccionar ubicación)  
-- Envío de evidencia (foto)  
-- Registro y seguimiento de reportes  
-- Categorías de incidencias  
-- Autenticación básica  
-
-🔧 **Stack:**  
-Android Studio · Java · SQLite · MySQL · GitHub  
-
-📘 **Informe técnico incluido**, con metodología **Scrum**, análisis del problema y evaluación de tecnologías.  
-📎 *Repositorio:* https://github.com/bryan7hc/appMovil  
+<table>
+  <tr>
+    <td align="center" width="25%"><b>Frontend</b></td>
+    <td align="center" width="25%"><b>Backend</b></td>
+    <td align="center" width="25%"><b>Data & AI</b></td>
+    <td align="center" width="25%"><b>Mobile & Cloud</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,figma" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,mysql" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python,postgres,pandas,mongodb" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=androidstudio,aws,git,github,linux" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🔹 3. Automundo – E-commerce de Autos  
-<p align="left">
-  <img src="https://img.shields.io/badge/React-Frontend-blue?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/MySQL-Database-orange?style=for-the-badge&logo=mysql" />
-</p>
+## 🏆 Proyectos Destacados
 
-🛒 Plataforma completa de compraventa de vehículos:
+### 📊 1. Dashboard Retail — Business Intelligence & Data Engineering (NUEVO)
+> *Proyecto Integral de Análisis de Datos y Visualización Interactiva.*
 
-- Vista pública y catálogo  
-- Fichas con **todos los detalles del vehículo**  
-- Reseñas y calificaciones  
-- Carrito y proceso de compra  
-- Panel administrativo  
-    - CRUD de usuarios  
-    - CRUD de proveedores  
-    - CRUD de vehículos  
-- Login con roles (cliente, proveedor, administrador)
+Una solución de inteligencia de negocios (Nivel 1) diseñada para transformar datos crudos del sector retail en insights accionables. Utiliza un flujo de trabajo de ingeniería de datos moderno para la toma de decisiones estratégicas.
 
-⚙️ **Tecnologías principales:**  
-React · Node.js (Express) · MySQL · Axios · JWT · Arquitectura por capas
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</div>
 
----
+<br>
 
-# 🛠️ Tech Stack Principal
+<details open>
+<summary>📋 <b>Arquitectura y Funcionalidades</b></summary>
+<br>
 
-### **Lenguajes**
-<p align="left">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" />
-<img src="https://img.shields.io/badge/SQL-02569B?style=for-the-badge&logo=sqlite" />
-</p>
+* **🏗 Arquitectura Modular:** Separación estricta entre la capa de aplicación (`src/dashboard`) y la lógica de transformación ETL (`src/transform`).
+* **🎛 Interfaz Interactiva:** Dashboard web construido con **Streamlit**, incluyendo sidebar dinámico con filtros de fecha, región y categoría.
+* **📈 KPIs de Negocio:** Cálculo y visualización en tiempo real de Ventas Totales, Profit, Margen y Transacciones.
+* **💾 Ingeniería de Datos:**
+    * **ETL:** Limpieza y manipulación de datasets con **Pandas** y **NumPy**.
+    * **Exportación:** Funcionalidad para que los stakeholders descarguen reportes procesados en CSV.
+* **🛠 Estado:** Implementación de visualizaciones avanzadas con Plotly en proceso.
 
-### **Frontend**
-<p align="left">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3" />
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap" />
-</p>
+</details>
 
-### **Backend**
-<p align="left">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express" />
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot" />
-</p>
-
-### **Bases de Datos**
-<p align="left">
-<img src="https://img.shields.io/badge/MySQL-1E4C68?style=for-the-badge&logo=mysql" />
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver" />
-<img src="https://img.shields.io/badge/NoSQL-Database-orange?style=for-the-badge&logo=mongodb" />
-</p>
-
-### **Cloud y DevOps**
-<p align="left">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman" />
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger" />
-</p>
+🔗 **Repositorio:** *[Inserta aquí tu link]*
 
 ---
 
-# 📊 GitHub Stats
+### 📱 2. Reporte Ya – Seguridad Ciudadana
+> *Aplicación Móvil Nativa | Metodología Scrum*
+
+Sistema móvil para reportar incidencias ciudadanas (delincuencia, servicios públicos) en San Juan de Lurigancho, mejorando la respuesta municipal mediante tecnología.
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</div>
+
+<br>
+
+<details>
+<summary>📋 <b>Ver detalles técnicos</b></summary>
+<br>
+
+* **📍 Geolocalización:** Uso de Google Maps SDK para fijar coordenadas exactas del incidente.
+* **📸 Evidencia:** Integración de cámara nativa para adjuntar pruebas fotográficas.
+* **🔄 Sincronización:** Arquitectura híbrida usando **SQLite** para persistencia local y **MySQL** para la base de datos central.
+* **🛡 Gestión:** Módulos de autenticación y categorización de incidencias.
+
+</details>
+
+🔗 **Repositorio:** [github.com/bryan7hc/appMovil](https://github.com/bryan7hc/appMovil)
+
+---
+
+### 🛒 3. Automundo – E-commerce Vehicular
+> *Plataforma Web Full-Stack | Arquitectura por Capas*
+
+Plataforma integral para la compraventa de vehículos con gestión de roles y administración avanzada.
+
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-Auth-critical?style=for-the-badge&logo=jsonwebtokens" />
+</div>
+
+<br>
+
+<details>
+<summary>📋 <b>Ver detalles técnicos</b></summary>
+<br>
+
+* **Frontend:** React con gestión de estados y diseño responsivo.
+* **Backend:** API RESTful robusta construida con Node.js y Express.
+* **Seguridad:** Implementación de **JWT** para sesiones seguras y control de acceso basado en roles (RBAC).
+* **Admin Panel:** CRUD completo para vehículos, usuarios y proveedores.
+
+</details>
+
+---
+
+## 🤖 Otros Proyectos
+
+| Proyecto | Descripción | Stack |
+| :--- | :--- | :--- |
+| **🤖 FinBot** | Chatbot de finanzas personales con procesamiento de lenguaje natural (NLP). | `Python` `NLP` `MongoDB` |
+| **🎓 Sistema Académico** | Gestión de matrícula y notas para instituciones educativas. | `Java` `Spring Boot` `SQL` |
+
+---
+
+## 📊 Estadísticas
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bryan7hc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bryan7hc&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" width="100%" />
+</div>
+
+---
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bryan7hc&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bryan7hc&layout=compact&langs_count=8&theme=algolia"/>
+  Generated with ❤️ by Bryan Cahuana
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bryan7hc&theme=dark&hide_border=true" />
-</p>
-
----
-
-# 🤝 Conecta conmigo
-<p align="center">
-  <a><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
-
----
-
-# 🐍 "Snake" – Actividad de commits
-
-<p align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" />
-</p>
-
