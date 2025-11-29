@@ -1,181 +1,137 @@
-<!-- BANNER & INTRO -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/bryan7hc/bryan7hc/main/assets/banner-main.png" width="100%" alt="Banner Bryan Cahuana" />
-  
-  <br>
-  
-  <h1 style="font-size: 3em;">👋 ¡Hola! Soy Bryan Cahuana</h1>
-  <h3>Ingeniero de Sistemas Computacionales | Full-Stack & Data Enthusiast</h3>
+  <img src="https://raw.githubusercontent.com/bryan7hc/bryan7hc/main/assets/banner-main.png" width="100%" alt="Banner Bryan Cahuana - Full Stack Developer" />
+</div>
+
+<div align="center">
+  <h1 style="font-size: 3.5em;">👋 ¡Hola! Soy Bryan Cahuana</h1>
+  <h3 style="color: #00A9FF;">Ingeniero de Sistemas | Full-Stack Developer | Data & Cloud Enthusiast</h3>
 
   <p>
-    <a href="https://www.linkedin.com/in/bryan-heber-cahuana-chaupin-460212197/" target="_blank">
+    <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="350" alt="Night Coding GIF"/>
+  </p>
+  
+  <p>
+    <a href="https://linkedin.com/in/tu-usuario" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="mailto:bryan.cahuanna@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <a href="mailto:bryan.cahuana.dev@gmail.com">
+      <img src="https://img.shields.io/badge/Email-bryan.cahuana.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://github.com/bryan7hc">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
     </a>
   </p>
-
-  <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="280"/>
 </div>
 
 ---
 
-## 🧑‍💻 Sobre mí
+## 👨‍💻 Sobre mí
 
-> 💡 *Transformo problemas complejos en soluciones de software escalables y decisiones basadas en datos.*
+> 💡 **Mi misión:** Transformar problemas de negocio en soluciones robustas, escalables y con alto valor analítico.
 
 * 🎓 **Formación:** Estudiante avanzado de **Ingeniería de Sistemas Computacionales**.
-* ⚙️ **Perfil Híbrido:** Sólida base en **Desarrollo Full-Stack** (Web & Mobile) con una creciente especialización en **Ingeniería de Datos y BI**.
-* ☁️ **Cloud:** Enfocado en arquitectura en la nube con **AWS (EC2, RDS, S3)**.
-* 🚀 **Enfoque:** Código limpio, arquitecturas modulares y metodologías ágiles (**Scrum**).
+* 🌐 **Especialidad:** Desarrollo **Full-Stack** (React, Node.js) y **Data Engineering** (Python, BI).
+* ☁️ **Cloud:** Experiencia práctica en **AWS (EC2, RDS, S3, IAM)**.
+* 🚀 **Enfoque:** Arquitectura limpia (Clean Architecture), buenas prácticas y metodologías **Agile/Scrum**.
 
 ---
 
-## 🛠️ Arsenal Tecnológico
+## 🏆 Proyectos Destacados (Top 3)
 
-<table>
-  <tr>
-    <td align="center" width="25%"><b>Frontend</b></td>
-    <td align="center" width="25%"><b>Backend</b></td>
-    <td align="center" width="25%"><b>Data & AI</b></td>
-    <td align="center" width="25%"><b>Mobile & Cloud</b></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,figma" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,mysql" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=python,postgres,pandas,mongodb" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=androidstudio,aws,git,github,linux" />
-    </td>
-  </tr>
-</table>
-
----
-
-## 🏆 Proyectos Destacados
-
-### 📊 1. Dashboard Retail — Business Intelligence & Data Engineering (NUEVO)
-> *Proyecto Integral de Análisis de Datos y Visualización Interactiva.*
-
-Una solución de inteligencia de negocios (Nivel 1) diseñada para transformar datos crudos del sector retail en insights accionables. Utiliza un flujo de trabajo de ingeniería de datos moderno para la toma de decisiones estratégicas.
-
-<div align="center">
+### 🥇 1. 📊 Dashboard Retail — Business Intelligence & Data Engineering
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-</div>
+</p>
 
-<br>
+> Solución integral de **Business Intelligence (Nivel 1)** para el sector retail, enfocada en demostrar competencias de análisis de datos y visualización interactiva.
 
 <details open>
-<summary>📋 <b>Arquitectura y Funcionalidades</b></summary>
+<summary><b>Detalles Técnicos y Funcionalidades Clave</b></summary>
 <br>
 
-* **🏗 Arquitectura Modular:** Separación estricta entre la capa de aplicación (`src/dashboard`) y la lógica de transformación ETL (`src/transform`).
-* **🎛 Interfaz Interactiva:** Dashboard web construido con **Streamlit**, incluyendo sidebar dinámico con filtros de fecha, región y categoría.
-* **📈 KPIs de Negocio:** Cálculo y visualización en tiempo real de Ventas Totales, Profit, Margen y Transacciones.
-* **💾 Ingeniería de Datos:**
-    * **ETL:** Limpieza y manipulación de datasets con **Pandas** y **NumPy**.
-    * **Exportación:** Funcionalidad para que los stakeholders descarguen reportes procesados en CSV.
-* **🛠 Estado:** Implementación de visualizaciones avanzadas con Plotly en proceso.
+* **Arquitectura:** Diseño modular que separa la aplicación (`src/dashboard`) de la lógica ETL (`src/transform`).
+* **Interfaz:** Dashboard interactivo desarrollado con **Streamlit**, permitiendo filtrar datos por fecha, región y categoría.
+* **Análisis:** Cálculo y visualización de **KPIs** críticos (Ventas Totales, Profit, Margen) usando **Pandas** y **Plotly** (en integración).
+* **Ingeniería de Datos:** Script de **ETL** dedicado a la limpieza y transformación de datos para asegurar la calidad analítica.
 
 </details>
 
-🔗 **Repositorio:** [github.com/bryan7hc/Proyecto_Analisis_Retail](https://github.com/bryan7hc/Proyecto_Analisis_Retail)
+🔗 **Link del Proyecto:** *[Añade el enlace al repositorio del Dashboard aquí]*
 
 ---
 
-### 📱 2. Reporte Ya – Seguridad Ciudadana
-> *Aplicación Móvil Nativa | Metodología Scrum*
-
-Sistema móvil para reportar incidencias ciudadanas (delincuencia, servicios públicos) en San Juan de Lurigancho, mejorando la respuesta municipal mediante tecnología.
-
-<div align="center">
+### 🥈 2. 📱 Reporte Ya – Aplicación Móvil de Seguridad Ciudadana
+<p align="left">
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</div>
+  <img src="https://img.shields.io/badge/Scrum-0077B5?style=for-the-badge&logo=jira&logoColor=white" />
+</p>
 
-<br>
+> Aplicación móvil nativa desarrollada con metodología **Scrum** para que los ciudadanos reporten incidencias (delincuencia, basura) mediante geolocalización y evidencia fotográfica.
 
 <details>
-<summary>📋 <b>Ver detalles técnicos</b></summary>
+<summary><b>Detalles Técnicos y Funcionalidades Clave</b></summary>
 <br>
 
-* **📍 Geolocalización:** Uso de Google Maps SDK para fijar coordenadas exactas del incidente.
-* **📸 Evidencia:** Integración de cámara nativa para adjuntar pruebas fotográficas.
-* **🔄 Sincronización:** Arquitectura híbrida usando **SQLite** para persistencia local y **MySQL** para la base de datos central.
-* **🛡 Gestión:** Módulos de autenticación y categorización de incidencias.
+* **Desarrollo:** **Android Studio** y **Java** (SDK Nativo).
+* **Ubicación:** Integración con **Google Maps SDK** para geolocalización precisa.
+* **Datos:** Arquitectura híbrida usando **SQLite** (local) y **MySQL** (servidor central).
+* **Funcionalidad:** Envío de evidencia mediante API de cámara y sistema de autenticación básica.
 
 </details>
 
-🔗 **Repositorio:** [github.com/bryan7hc/appMovil](https://github.com/bryan7hc/appMovil)
+🔗 **Repositorio:** [https://github.com/bryan7hc/appMovil](https://github.com/bryan7hc/appMovil)
 
 ---
 
-### 🛒 3. Automundo – E-commerce Vehicular
-> *Plataforma Web Full-Stack | Arquitectura por Capas*
-
-Plataforma integral para la compraventa de vehículos con gestión de roles y administración avanzada.
-
-<div align="center">
+### 🥉 3. 🛒 Automundo – E-commerce Full-Stack
+<p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-Auth-critical?style=for-the-badge&logo=jsonwebtokens" />
-</div>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
-<br>
+> Plataforma completa de compraventa de vehículos con gestión de inventario, roles de usuario y panel administrativo.
 
 <details>
-<summary>📋 <b>Ver detalles técnicos</b></summary>
+<summary><b>Detalles Técnicos y Funcionalidades Clave</b></summary>
 <br>
 
-* **Frontend:** React con gestión de estados y diseño responsivo.
-* **Backend:** API RESTful robusta construida con Node.js y Express.
-* **Seguridad:** Implementación de **JWT** para sesiones seguras y control de acceso basado en roles (RBAC).
-* **Admin Panel:** CRUD completo para vehículos, usuarios y proveedores.
+* **Stack:** **MERN** like (React, Express, Node.js, MySQL).
+* **Arquitectura:** Diseño por capas para facilitar el mantenimiento y la escalabilidad.
+* **Seguridad:** Implementación de **JWT** (JSON Web Tokens) para control de acceso y autenticación.
+* **Funcionalidades:** Carrito de compras, sistema de reseñas y CRUD de vehículos y proveedores.
 
 </details>
 
 ---
 
-## 🤖 Otros Proyectos
-
-| Proyecto | Descripción | Stack |
-| :--- | :--- | :--- |
-| **🤖 FinBot** | Chatbot de finanzas personales con procesamiento de lenguaje natural (NLP). | `Python` `NLP` `MongoDB` |
-| **🎓 Sistema Académico** | Gestión de matrícula y notas para instituciones educativas. | `Java` `Spring Boot` `SQL` |
-
----
-
-## 📊 Estadísticas
+## 🌟 Lenguajes y Frameworks Principales
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bryan7hc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bryan7hc&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" width="100%" />
+  <img src="https://skillicons.dev/icons?i=js,python,java,react,nodejs,express,spring,mysql,postgresql,aws,androidstudio,linux" />
 </div>
 
 ---
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bryan7hc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=00A9FF&icon_color=00A9FF"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bryan7hc&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&title_color=00A9FF&icon_color=00A9FF"/>
+</div>
 
 <p align="center">
-  Generated with ❤️ by Bryan Cahuana
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bryan7hc&theme=dark&hide_border=true&ring=00A9FF&side_color=D3D3D3&currstreak=00A9FF&side_panel_bg=00A9FF" />
 </p>
+
+<p align="center">
+  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" />
+</p>
+
+---
