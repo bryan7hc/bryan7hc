@@ -8,10 +8,10 @@
   <h3>Ingeniero de Sistemas Computacionales | Full-Stack & Data Enthusiast</h3>
 
   <p>
-    <a href="https://linkedin.com/in/tu-usuario" target="_blank">
+    <a href="https://www.linkedin.com/in/bryan-heber-cahuana-chaupin-460212197/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="mailto:bryan.cahuana.dev@gmail.com">
+    <a href="mailto:bryan.cahuanna@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://github.com/bryan7hc">
@@ -92,7 +92,7 @@ Una solución de inteligencia de negocios (Nivel 1) diseñada para transformar d
 
 </details>
 
-🔗 **Repositorio:** *[Inserta aquí tu link]*
+🔗 **Repositorio:** [github.com/bryan7hc/Proyecto_Analisis_Retail](https://github.com/bryan7hc/Proyecto_Analisis_Retail)
 
 ---
 
