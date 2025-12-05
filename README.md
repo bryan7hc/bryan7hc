@@ -1,190 +1,156 @@
-<!-- CYBERPUNK NEON PORTFOLIO README -->
-
-<!-- BANNER PRINCIPAL -->
+<!-- BANNER & INTRO -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/bryan7hc/bryan7hc/main/assets/banner-main.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/bryan7hc/bryan7hc/main/assets/banner-main.png" width="100%" alt="Banner Bryan Cahuana" />
 
-  <h1 style="
-      font-size: 3em;
-      font-weight: 800;
-      background: linear-gradient(90deg, #5f27cd, #341f97, #1dd1a1, #48dbfb);
-      -webkit-background-clip: text;
-      color: transparent;">
-    ⚡ BRYAN CAHUANA — CYBERPUNK PORTFOLIO ⚡
-  </h1>
+  <h1 style="font-size: 3em;">👋 ¡Hola! Soy Bryan Cahuana</h1>
+  <h3>Ingeniero de Sistemas Computacionales • Full-Stack Developer • Data & AI Enthusiast</h3>
 
-  <h3 style="color: #c7c7c7; font-weight: 300;">
-    Full-Stack Developer • Data Engineer • Machine Learning Enthusiast
-  </h3>
-
-  <!-- SOCIAL -->
   <p>
-    <a href="https://www.linkedin.com/in/bryan-heber-cahuana-chaupin-460212197/">
-      <img src="https://img.shields.io/badge/LinkedIn-6c5ce7?style=for-the-badge&logo=linkedin&logoColor=white">
+    <a href="https://www.linkedin.com/in/bryan-heber-cahuana-chaupin-460212197/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     <a href="mailto:bryan.cahuanna@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-341f97?style=for-the-badge&logo=gmail&logoColor=white">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
     <a href="https://github.com/bryan7hc">
-      <img src="https://img.shields.io/badge/GitHub-130f40?style=for-the-badge&logo=github&logoColor=white">
+      <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white">
     </a>
   </p>
 
-  <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="260"/>
+  <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="280"/>
 </div>
 
 ---
 
-# 🌐 Sobre mí
+## 🧑‍💻 Sobre mí
 
-<div align="center" style="width: 80%; margin: auto; font-size: 1.15em;">
+> 💡 *Transformo problemas complejos en soluciones de software escalables basadas en datos.*
 
-✨ *"Construyo sistemas inteligentes, visuales y escalables en un mundo impulsado por datos."*
-
-🔮 **Ingeniería de Sistemas Computacionales — Perfil Híbrido:**  
-**Full-Stack Developer + Data Engineering + Machine Learning**
-
-⚡ Cloud: AWS (EC2, S3, RDS, IAM)  
-🧠 Me apasiona: BI, IA aplicada, arquitectura limpia, software modular  
-
-</div>
+- 🎓 Estudiante avanzado de **Ingeniería de Sistemas Computacionales**  
+- ⚙️ Perfil híbrido: **Full-Stack Developer + Data Engineering + Machine Learning**  
+- ☁️ Experiencia en **AWS** (EC2, S3, IAM, RDS)  
+- 🚀 Filosofía: código limpio, arquitectura modular y trabajo ágil (**Scrum**)  
+- 📊 Apasionado por BI, análisis de datos y la creación de herramientas inteligentes  
 
 ---
 
-# ⚙️ Tech Stack — Edición Cyberpunk
+## 🛠️ Tech Stack Moderno
 
 <div align="center">
 
-### 🌐 Frontend  
-<img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,figma" height="60"/>
+### **Frontend**
+<img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,figma" height="45"/>
 
-### 🧩 Backend  
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,mysql,postgres" height="60"/>
+### **Backend**
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,mysql,postgres" height="45"/>
 
-### 🤖 Data & AI  
-<img src="https://skillicons.dev/icons?i=python,sklearn,pandas,numpy" height="60"/>
+### **Data & AI**
+<img src="https://skillicons.dev/icons?i=python,sklearn,pandas,numpy,postgres" height="45"/>
 
-### 📱 Mobile & ☁️ Cloud  
-<img src="https://skillicons.dev/icons?i=androidstudio,firebase,aws,git,github,linux" height="60"/>
+### **Mobile & Cloud**
+<img src="https://skillicons.dev/icons?i=androidstudio,firebase,aws,git,github,linux" height="45"/>
 
 </div>
 
 ---
 
-# 🏆 Proyectos Cyberpunk Destacados  
-### ⚡ ESTILO NEON + TARJETAS GLOW
+# 🏆 Proyectos Relevantes
 
 ---
 
-<!-- CARD 1 -->
+## 📊 **1. Dashboard Retail — Business Intelligence & Data Engineering (Relevante)**
+
+> *Dashboard interactivo para transformar datos crudos en insights estratégicos.*
+
 <div align="center">
-
-## <span style="font-size: 1.9em; font-weight: bold; color:#8e44ad;">📊 Dashboard Retail — Data Engineering & BI</span>
-
-<div style="
-  background: rgba(120, 80, 200, 0.15);
-  padding: 20px;
-  border-radius: 18px;
-  width: 85%;
-  border: 1px solid rgba(170, 70, 255, 0.5);
-  box-shadow: 0px 0px 15px #9b59b6;">
-  
-**🔍 Descripción:**  
-Dashboard interactivo de nivel profesional creado con **Streamlit**, integrando KPIs, filtros dinámicos, visualizaciones avanzadas con Plotly y arquitectura ETL modular con Pandas + PostgreSQL.
-
-**🛠 Stack:**  
-Python • Streamlit • Pandas • NumPy • Plotly • PostgreSQL  
-
-🔗 **Repositorio:** https://github.com/bryan7hc/Proyecto_Analisis_Retail
-
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 </div>
-</div>
+
+### **Descripción rápida**
+Dashboard modular creado con **Streamlit**, integrando KPIs, filtros dinámicos, visualizaciones con Plotly y carga de datos desde **PostgreSQL**. Incluye ETL con Pandas y arquitectura escalable orientada a BI.
+
+**Stack:** Python, Streamlit, Pandas, NumPy, Plotly, PostgreSQL  
+🔗 Repositorio: https://github.com/bryan7hc/Proyecto_Analisis_Retail
 
 ---
 
-<!-- CARD 2 -->
+## 🤖 **2. Predicción de Riesgo de Mora Grave — Machine Learning (Relevante)**
+
+> *Modelo predictivo para detectar morosidad severa con alta precisión.*
+
 <div align="center">
-
-## <span style="font-size: 1.9em; font-weight: bold; color:#00cec9;">🤖 Predicción de Mora Grave — Machine Learning</span>
-
-<div style="
-  background: rgba(0, 206, 201, 0.1);
-  padding: 20px;
-  border-radius: 18px;
-  width: 85%;
-  border: 1px solid rgba(0, 206, 201, 0.5);
-  box-shadow: 0px 0px 15px #00cec9;">
-  
-**🔍 Descripción:**  
-Modelo **Random Forest** optimizado para detectar riesgo de morosidad severa.  
-Resultado: **Recall del 88.58%** con preprocesamiento avanzado y undersampling.
-
-**🛠 Stack:**  
-Python • Scikit-Learn • Pandas • NumPy  
-
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </div>
-</div>
+
+### **Descripción rápida**
+Modelo **Random Forest** optimizado para identificar riesgo de mora en clientes bancarios.  
+Incluye:  
+- Preprocesamiento avanzado  
+- Undersampling para clase desbalanceada  
+- Optimización con GridSearch  
+- **Recall: 88.58%** (muy alto para escenarios financieros)
+
+**Stack:** Python, Scikit-Learn, Pandas, NumPy
 
 ---
 
-<!-- CARD 3 -->
+## 📱 **3. Reporte Ya – Seguridad Ciudadana**
+
+> *App móvil para reportar incidencias en tiempo real con geolocalización.*
+
 <div align="center">
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</div>
 
-## <span style="font-size: 1.9em; font-weight: bold; color:#e84393;">📱 Reporte Ya — Seguridad Ciudadana</span>
+### **Descripción rápida**
+App móvil que permite reportar delitos, fallas públicas e incidentes urbanos.  
+Incluye:  
+- Geolocalización con Google Maps API  
+- Captura de evidencia fotográfica  
+- Sincronización SQLite + Firebase  
+- Dashboard para ver incidentes reportados  
 
-<div style="
-  background: rgba(232, 67, 147, 0.1);
-  padding: 20px;
-  border-radius: 18px;
-  width: 85%;
-  border: 1px solid rgba(232, 67, 147, 0.55);
-  box-shadow: 0px 0px 15px #e84393;">
-  
-**🔍 Descripción:**  
-App móvil para reportar incidencias en tiempo real: geolocalización, evidencia fotográfica y sincronización local/nube.
-
-**🛠 Stack:**  
-Java • Android Studio • Firebase • SQLite  
-
+**Stack:** Java, Android Studio, Firebase, SQLite  
 🔗 Repositorio: https://github.com/bryan7hc/appMovil
 
-</div>
-</div>
-
 ---
 
-<!-- CARD 4 -->
-<div align="center">
+## 🤖 **4. FinBot – Chatbot Personal de Finanzas**
 
-## <span style="font-size: 1.9em; font-weight: bold; color:#6c5ce7;">🤖 FinBot — Chatbot Personal de Finanzas</span>
-
-<div style="
-  background: rgba(108, 92, 231, 0.1);
-  padding: 20px;
-  border-radius: 18px;
-  width: 85%;
-  border: 1px solid rgba(108, 92, 231, 0.55);
-  box-shadow: 0px 0px 15px #6c5ce7;">
-  
-**🔍 Descripción:**  
-Chatbot inteligente con NLP básico que recomienda hábitos financieros y registra información en MongoDB.
-
-**🛠 Stack:**  
-Python • NLP Básico • MongoDB  
-
-</div>
-</div>
-
----
-
-# 📊 GitHub Cyber Stats
+> *Asistente inteligente para educación y control financiero.*
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bryan7hc&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bryan7hc&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div>
 
+### **Descripción rápida**
+Chatbot conversacional enfocado en recomendaciones financieras, tips de ahorro y consultas sobre gastos.  
+Incluye:  
+- Procesamiento básico de lenguaje natural  
+- Base de conocimiento dinámica  
+- Persistencia usando MongoDB  
+- Interfaz CLI intuitiva  
+
+**Stack:** Python, NLP básico, MongoDB
+
 ---
+
+## 📊 Estadísticas
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bryan7hc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bryan7hc&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+</div>
+
+<br>
 
 <div align="center">
   <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" width="100%"/>
@@ -193,5 +159,5 @@ Python • NLP Básico • MongoDB
 ---
 
 <p align="center">
-  ⚡ <b>Built in Cyberpunk Mode by Bryan Cahuana</b> ⚡
+  ✨ Developed with passion by <b>Bryan Cahuana</b> ✨
 </p>
