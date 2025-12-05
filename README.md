@@ -29,8 +29,8 @@
 > 💡 *Transformo problemas complejos en soluciones de software escalables y decisiones basadas en datos.*
 
 * 🎓 **Formación:** Estudiante avanzado de **Ingeniería de Sistemas Computacionales**.
-* ⚙️ **Perfil Híbrido:** Sólida base en **Desarrollo Full-Stack** (Web & Mobile) con una creciente especialización en **Ingeniería de Datos y BI**.
-* ☁️ **Cloud:** Enfocado en arquitectura en la nube con **AWS (EC2, RDS, S3)**.
+* ⚙️ **Perfil Híbrido:** Desarrollo **Full-Stack** y especialización en **Ingeniería de Datos y BI**.
+* ☁️ **Cloud:** Enfoque en **AWS** (EC2, RDS, S3).
 * 🚀 **Enfoque:** Código limpio, arquitecturas modulares y metodologías ágiles (**Scrum**).
 
 ---
@@ -52,7 +52,7 @@
       <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,mysql" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=python,postgres,pandas,mongodb" />
+      <img src="https://skillicons.dev/icons?i=python,postgres,pandas,mongodb,sklearn" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=androidstudio,aws,git,github,linux" />
@@ -62,12 +62,15 @@
 
 ---
 
-## 🏆 Proyectos Destacados
+# 🏆 Proyectos Destacados
 
-### 📊 1. Dashboard Retail — Business Intelligence & Data Engineering (NUEVO)
-> *Proyecto Integral de Análisis de Datos y Visualización Interactiva.*
+---
 
-Una solución de inteligencia de negocios (Nivel 1) diseñada para transformar datos crudos del sector retail en insights accionables. Utiliza un flujo de trabajo de ingeniería de datos moderno para la toma de decisiones estratégicas.
+## 📊 1. Dashboard Retail — Business Intelligence & Data Engineering 
+
+> *Proyecto Integral de Análisis de Datos y Visualización Interactiva – Nivel 1.*
+
+Solución de BI que transforma datos del sector retail en insights accionables mediante un flujo moderno de ingeniería de datos.
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -76,79 +79,56 @@ Una solución de inteligencia de negocios (Nivel 1) diseñada para transformar d
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </div>
 
-<br>
+**Resumen del Proyecto (versión para CV):**  
+Dashboard desarrollado con **Streamlit**, integrando filtros dinámicos, KPIs ejecutivos y visualizaciones interactivas.  
+Incluye arquitectura modular, carga de datos en PostgreSQL y procesamiento ETL con Pandas y NumPy.
 
-<details open>
-<summary>📋 <b>Arquitectura y Funcionalidades</b></summary>
-<br>
+**Tecnologías:** Python, Streamlit, Pandas, NumPy, Plotly, PostgreSQL.
 
-* **🏗 Arquitectura Modular:** Separación estricta entre la capa de aplicación (`src/dashboard`) y la lógica de transformación ETL (`src/transform`).
-* **🎛 Interfaz Interactiva:** Dashboard web construido con **Streamlit**, incluyendo sidebar dinámico con filtros de fecha, región y categoría.
-* **📈 KPIs de Negocio:** Cálculo y visualización en tiempo real de Ventas Totales, Profit, Margen y Transacciones.
-* **💾 Ingeniería de Datos:**
-    * **ETL:** Limpieza y manipulación de datasets con **Pandas** y **NumPy**.
-    * **Exportación:** Funcionalidad para que los stakeholders descarguen reportes procesados en CSV.
-* **🛠 Estado:** Implementación de visualizaciones avanzadas con Plotly en proceso.
-
-</details>
-
-🔗 **Repositorio:** [github.com/bryan7hc/Proyecto_Analisis_Retail](https://github.com/bryan7hc/Proyecto_Analisis_Retail)
+🔗 **Repositorio:** https://github.com/bryan7hc/Proyecto_Analisis_Retail
 
 ---
 
-### 📱 2. Reporte Ya – Seguridad Ciudadana
-> *Aplicación Móvil Nativa | Metodología Scrum*
+## 🤖 2. Predicción de Riesgo de Mora Grave — Machine Learning 
 
-Sistema móvil para reportar incidencias ciudadanas (delincuencia, servicios públicos) en San Juan de Lurigancho, mejorando la respuesta municipal mediante tecnología.
+> *Modelo predictivo orientado a identificar morosidad severa a 2 años.*
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</div>
+
+**Resumen del Proyecto (versión para CV):**  
+Modelo de clasificación basado en **Random Forest**, optimizado con hiperparámetros y calibración de umbral, alcanzando un **Recall del 88.58%**. Incluye preprocesamiento complejo, tratamiento de desbalanceo con undersampling y análisis de métricas financieras clave.
+
+**Tecnologías:** Python, Scikit-learn, Pandas, NumPy.
+
+---
+
+## 📱 3. Reporte Ya – Seguridad Ciudadana
+
+> *Aplicación móvil nativa para reportar incidencias en tiempo real.*
 
 <div align="center">
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
-<br>
-
-<details>
-<summary>📋 <b>Ver detalles técnicos</b></summary>
-<br>
-
-* **📍 Geolocalización:** Uso de Google Maps SDK para fijar coordenadas exactas del incidente.
-* **📸 Evidencia:** Integración de cámara nativa para adjuntar pruebas fotográficas.
-* **🔄 Sincronización:** Arquitectura híbrida usando **SQLite** para persistencia local y **MySQL** para la base de datos central.
-* **🛡 Gestión:** Módulos de autenticación y categorización de incidencias.
-
-</details>
-
-🔗 **Repositorio:** [github.com/bryan7hc/appMovil](https://github.com/bryan7hc/appMovil)
+🔗 **Repositorio:** https://github.com/bryan7hc/appMovil
 
 ---
 
-### 🛒 3. Automundo – E-commerce Vehicular
-> *Plataforma Web Full-Stack | Arquitectura por Capas*
+## 🛒 4. Automundo – E-commerce Vehicular
 
-Plataforma integral para la compraventa de vehículos con gestión de roles y administración avanzada.
+> *Plataforma web full-stack para compra y venta de vehículos.*
 
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-Auth-critical?style=for-the-badge&logo=jsonwebtokens" />
 </div>
-
-<br>
-
-<details>
-<summary>📋 <b>Ver detalles técnicos</b></summary>
-<br>
-
-* **Frontend:** React con gestión de estados y diseño responsivo.
-* **Backend:** API RESTful robusta construida con Node.js y Express.
-* **Seguridad:** Implementación de **JWT** para sesiones seguras y control de acceso basado en roles (RBAC).
-* **Admin Panel:** CRUD completo para vehículos, usuarios y proveedores.
-
-</details>
 
 ---
 
@@ -156,8 +136,8 @@ Plataforma integral para la compraventa de vehículos con gestión de roles y ad
 
 | Proyecto | Descripción | Stack |
 | :--- | :--- | :--- |
-| **🤖 FinBot** | Chatbot de finanzas personales con procesamiento de lenguaje natural (NLP). | `Python` `NLP` `MongoDB` |
-| **🎓 Sistema Académico** | Gestión de matrícula y notas para instituciones educativas. | `Java` `Spring Boot` `SQL` |
+| **🤖 FinBot** | Chatbot de finanzas personales con NLP. | `Python` `NLP` `MongoDB` |
+| **🎓 Sistema Académico** | Gestión académica escolar. | `Java` `Spring Boot` `SQL` |
 
 ---
 
