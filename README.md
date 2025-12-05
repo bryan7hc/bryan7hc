@@ -1,6 +1,6 @@
 <!-- BANNER & INTRO -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/bryan7hc/bryan7hc/main/assets/banner-main.png" width="100%" alt="Banner Bryan Cahuana" />
+  <img src="https://images.pexels.com/photos/6330644/pexels-photo-6330644.jpeg" width="100%" alt="Banner Bryan Cahuana" />
   
   <br>
   
