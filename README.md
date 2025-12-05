@@ -2,155 +2,182 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/bryan7hc/bryan7hc/main/assets/banner-main.png" width="100%" alt="Banner Bryan Cahuana" />
 
-  <h1 style="font-size: 3em;">👋 ¡Hola! Soy Bryan Cahuana</h1>
-  <h3>Ingeniero de Sistemas Computacionales • Full-Stack Developer • Data & AI Enthusiast</h3>
+  <h1 style="font-size: 3.2em; font-weight: 700;">
+    👋 ¡Hola! Soy <span style="color:#4F9AFF">Bryan Cahuana</span>
+  </h1>
+  <h3 style="font-weight: 400; color: #cfcfcf">
+    Full-Stack Developer • Data & Machine Learning Enthusiast • Cloud Practitioner
+  </h3>
 
+  <!-- SOCIAL BADGES -->
   <p>
-    <a href="https://www.linkedin.com/in/bryan-heber-cahuana-chaupin-460212197/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <a href="https://www.linkedin.com/in/bryan-heber-cahuana-chaupin-460212197/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     <a href="mailto:bryan.cahuanna@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+      <img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
     <a href="https://github.com/bryan7hc">
       <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white">
     </a>
   </p>
 
-  <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="280"/>
+  <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="260"/>
 </div>
 
 ---
 
-## 🧑‍💻 Sobre mí
+# 🌌 Sobre mí
 
-> 💡 *Transformo problemas complejos en soluciones de software escalables basadas en datos.*
+<div align="center" style="font-size: 1.15em; width: 80%; margin: auto;">
+💡 <i>Apasionado por crear soluciones inteligentes que unan software, datos y nube.</i><br><br>
 
-- 🎓 Estudiante avanzado de **Ingeniería de Sistemas Computacionales**  
-- ⚙️ Perfil híbrido: **Full-Stack Developer + Data Engineering + Machine Learning**  
-- ☁️ Experiencia en **AWS** (EC2, S3, IAM, RDS)  
-- 🚀 Filosofía: código limpio, arquitectura modular y trabajo ágil (**Scrum**)  
-- 📊 Apasionado por BI, análisis de datos y la creación de herramientas inteligentes  
+🎓 Estudiante avanzado de <b>Ingeniería de Sistemas Computacionales</b>  
+⚙️ Perfil híbrido: <b>Full-Stack + Data Engineering + Machine Learning</b>  
+☁️ Experiencia en <b>AWS</b> (EC2, S3, IAM, RDS)  
+🚀 Enfoque: arquitectura limpia, escalabilidad y metodologías ágiles  
+📊 Me encanta transformar datos en decisiones y modelos inteligentes  
+</div>
 
 ---
 
-## 🛠️ Tech Stack Moderno
+# 🛠️ Stack Tecnológico Moderno
 
 <div align="center">
 
-### **Frontend**
-<img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,figma" height="45"/>
+### 🌐 Frontend  
+<img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,figma" height="60"/>
 
-### **Backend**
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,mysql,postgres" height="45"/>
+### 🧩 Backend  
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,mysql,postgres" height="60"/>
 
-### **Data & AI**
-<img src="https://skillicons.dev/icons?i=python,sklearn,pandas,numpy,postgres" height="45"/>
+### 🤖 Data & AI  
+<img src="https://skillicons.dev/icons?i=python,sklearn,pandas,numpy,postgres" height="60"/>
 
-### **Mobile & Cloud**
-<img src="https://skillicons.dev/icons?i=androidstudio,firebase,aws,git,github,linux" height="45"/>
+### 📱 Mobile & ☁️ Cloud  
+<img src="https://skillicons.dev/icons?i=androidstudio,firebase,aws,git,github,linux" height="60"/>
 
 </div>
 
 ---
 
-# 🏆 Proyectos Relevantes
+# 🏆 Proyectos Destacados  
+## 🎨 Estilo Glassmorphism – Tarjetas de Proyecto
 
 ---
 
-## 📊 **1. Dashboard Retail — Business Intelligence & Data Engineering (Relevante)**
+<!-- CARD 1 -->
+<div align="center">
 
-> *Dashboard interactivo para transformar datos crudos en insights estratégicos.*
+### <span style="font-size: 1.8em; font-weight: bold;">📊 Dashboard Retail — Data Engineering & BI</span>
+
+<div style="
+  background: rgba(255, 255, 255, 0.08);
+  padding: 18px;
+  border-radius: 16px;
+  width: 85%;
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255,255,255,0.25);
+">
+
+**🔍 Descripción:**  
+Dashboard analítico creado con **Streamlit**, integrando KPIs, visualizaciones dinámicas con Plotly, conexión a **PostgreSQL**, filtros inteligentes y arquitectura ETL modular.
+
+**🛠 Stack:**  
+Python · Streamlit · Pandas · NumPy · Plotly · PostgreSQL  
+
+🔗 **Repositorio:** https://github.com/bryan7hc/Proyecto_Analisis_Retail
+
+</div>
+</div>
+
+---
+
+<!-- CARD 2 -->
+<div align="center">
+
+### <span style="font-size: 1.8em; font-weight: bold;">🤖 Predicción de Mora Grave — Machine Learning</span>
+
+<div style="
+  background: rgba(255, 255, 255, 0.08);
+  padding: 18px;
+  border-radius: 16px;
+  width: 85%;
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255,255,255,0.25);
+">
+
+**🔍 Descripción:**  
+Modelo **Random Forest** optimizado para detectar morosidad severa con un **Recall del 88.58%**. Incluye preprocesamiento avanzado, undersampling y análisis financiero.
+
+**🛠 Stack:**  
+Python · Scikit-Learn · Pandas · NumPy  
+
+</div>
+</div>
+
+---
+
+<!-- CARD 3 -->
+<div align="center">
+
+### <span style="font-size: 1.8em; font-weight: bold;">📱 Reporte Ya — Seguridad Ciudadana</span>
+
+<div style="
+  background: rgba(255, 255, 255, 0.08);
+  padding: 18px;
+  border-radius: 16px;
+  width: 85%;
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255,255,255,0.25);
+">
+
+**🔍 Descripción:**  
+App móvil que permite reportar delitos e incidencias en tiempo real con geolocalización, evidencias fotográficas y sincronización local-nube.
+
+**🛠 Stack:**  
+Java · Android Studio · Firebase · SQLite  
+
+🔗 **Repositorio:** https://github.com/bryan7hc/appMovil
+
+</div>
+</div>
+
+---
+
+<!-- CARD 4 -->
+<div align="center">
+
+### <span style="font-size: 1.8em; font-weight: bold;">🤖 FinBot — Chatbot Personal de Finanzas</span>
+
+<div style="
+  background: rgba(255, 255, 255, 0.08);
+  padding: 18px;
+  border-radius: 16px;
+  width: 85%;
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255,255,255,0.25);
+">
+
+**🔍 Descripción:**  
+Asistente financiero que ofrece recomendaciones, tips de ahorro y análisis simple mediante NLP básico y base de conocimiento en MongoDB.
+
+**🛠 Stack:**  
+Python · NLP Básico · MongoDB  
+
+</div>
+</div>
+
+---
+
+# 📊 Estadísticas
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bryan7hc&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bryan7hc&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
-
-### **Descripción rápida**
-Dashboard modular creado con **Streamlit**, integrando KPIs, filtros dinámicos, visualizaciones con Plotly y carga de datos desde **PostgreSQL**. Incluye ETL con Pandas y arquitectura escalable orientada a BI.
-
-**Stack:** Python, Streamlit, Pandas, NumPy, Plotly, PostgreSQL  
-🔗 Repositorio: https://github.com/bryan7hc/Proyecto_Analisis_Retail
 
 ---
-
-## 🤖 **2. Predicción de Riesgo de Mora Grave — Machine Learning (Relevante)**
-
-> *Modelo predictivo para detectar morosidad severa con alta precisión.*
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-</div>
-
-### **Descripción rápida**
-Modelo **Random Forest** optimizado para identificar riesgo de mora en clientes bancarios.  
-Incluye:  
-- Preprocesamiento avanzado  
-- Undersampling para clase desbalanceada  
-- Optimización con GridSearch  
-- **Recall: 88.58%** (muy alto para escenarios financieros)
-
-**Stack:** Python, Scikit-Learn, Pandas, NumPy
-
----
-
-## 📱 **3. Reporte Ya – Seguridad Ciudadana**
-
-> *App móvil para reportar incidencias en tiempo real con geolocalización.*
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-</div>
-
-### **Descripción rápida**
-App móvil que permite reportar delitos, fallas públicas e incidentes urbanos.  
-Incluye:  
-- Geolocalización con Google Maps API  
-- Captura de evidencia fotográfica  
-- Sincronización SQLite + Firebase  
-- Dashboard para ver incidentes reportados  
-
-**Stack:** Java, Android Studio, Firebase, SQLite  
-🔗 Repositorio: https://github.com/bryan7hc/appMovil
-
----
-
-## 🤖 **4. FinBot – Chatbot Personal de Finanzas**
-
-> *Asistente inteligente para educación y control financiero.*
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</div>
-
-### **Descripción rápida**
-Chatbot conversacional enfocado en recomendaciones financieras, tips de ahorro y consultas sobre gastos.  
-Incluye:  
-- Procesamiento básico de lenguaje natural  
-- Base de conocimiento dinámica  
-- Persistencia usando MongoDB  
-- Interfaz CLI intuitiva  
-
-**Stack:** Python, NLP básico, MongoDB
-
----
-
-## 📊 Estadísticas
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bryan7hc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bryan7hc&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
-</div>
-
-<br>
 
 <div align="center">
   <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" width="100%"/>
@@ -159,5 +186,5 @@ Incluye:
 ---
 
 <p align="center">
-  ✨ Developed with passion by <b>Bryan Cahuana</b> ✨
+  ✨ Designed with pasión by <b>Bryan Cahuana</b> ✨
 </p>
