@@ -1,6 +1,6 @@
 <!-- BANNER & INTRO -->
 <div align="center">
-  <img src="https://images.pexels.com/photos/6330644/pexels-photo-6330644.jpeg" width="50%" alt="Banner Bryan Cahuana" />
+  <!--<img src="https://images.pexels.com/photos/6330644/pexels-photo-6330644.jpeg" width="50%" alt="Banner Bryan Cahuana" />-->
   
   <br>
   
@@ -30,7 +30,7 @@
 
 * 🎓 **Formación:** Estudiante avanzado de **Ingeniería de Sistemas Computacionales**.
 * ⚙️ **Perfil Híbrido:** Desarrollo **Full-Stack** y especialización en **Ingeniería de Datos y BI**.
-* ☁️ **Cloud:** Enfoque en **AWS** (EC2, RDS, S3).
+* ☁️ **Cloud:** Enfoque en **AWS** (EC2, RDS, S3) y Microsoft Azure.
 * 🚀 **Enfoque:** Código limpio, arquitecturas modulares y metodologías ágiles (**Scrum**).
 
 ---
